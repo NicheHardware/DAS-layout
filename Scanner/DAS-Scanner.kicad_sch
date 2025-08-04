@@ -6257,8 +6257,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF"
-			(at 72.39 123.444 90)
+		(property "Value" "0.1uF/2.2uF"
+			(at 74.168 132.334 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6931,18 +6931,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6abbf1d4-9eac-4439-9437-b34406aed163")
 		(property "Reference" "C1"
-			(at 45.7263 62.23 90)
+			(at 43.434 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "0.1uF/2.2uF"
-			(at 45.7263 64.77 90)
+		(property "Value" "0.1uF"
+			(at 49.53 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
