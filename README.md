@@ -1,6 +1,6 @@
 <div>
 	<div align="center">
-		<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=dbdbdb&text=DAS Layout&height=80&fontSize=48"/>
+		<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=dbdbdb&text=DAS%20Layout&height=80&fontSize=48"/>
 	</div>
 </div>
 
