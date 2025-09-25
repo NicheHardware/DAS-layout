@@ -3717,7 +3717,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "不使用DCDC时\nL1,C2,C4使用第一参数\n\n使用DCDC时\nL1,C2,C4使用第二参数"
+	(text "不使用DCDC时\nL1=0R\nC2=0.1uF\nC4=0.1uF\n\n使用DCDC时\nL1=10uH\nC2=2.2uF\nC4=2.2uF\n"
 		(exclude_from_sim no)
 		(at 19.558 106.934 0)
 		(effects
@@ -5697,7 +5697,7 @@
 		(at 242.57 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6097,7 +6097,7 @@
 		(at 242.57 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6183,7 +6183,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal_GND24_Small"
+		(property "Value" "8DSC320G0008L"
 			(at 88.9 46.3482 0)
 			(effects
 				(font
@@ -6249,7 +6249,7 @@
 		(dnp no)
 		(uuid "39c702c2-7582-40be-8fef-4bb81fd7d733")
 		(property "Reference" "C4"
-			(at 72.39 128.27 90)
+			(at 70.358 128.016 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6257,8 +6257,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF/2.2uF"
-			(at 74.168 132.334 90)
+		(property "Value" "0.1uF"
+			(at 72.39 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6528,8 +6528,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 224.536 69.596 0)
+		(property "Value" "LED White"
+			(at 218.948 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7738,7 +7738,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "83631d09-727d-4268-a1cb-a09f51a3bc0a")
@@ -7919,8 +7919,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 224.536 74.676 0)
+		(property "Value" "LED White"
+			(at 218.948 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7997,8 +7997,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 224.536 64.516 0)
+		(property "Value" "LED White"
+			(at 218.948 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8274,8 +8274,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0R/10uH"
-			(at 52.324 130.81 90)
+		(property "Value" "0R"
+			(at 52.324 127.254 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8748,8 +8748,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF/2.2uF"
-			(at 68.58 132.08 90)
+		(property "Value" "0.1uF"
+			(at 67.31 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8870,7 +8870,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ee2c02e9-6a75-4b87-ba01-94630e13fbd7")

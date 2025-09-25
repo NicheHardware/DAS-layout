@@ -1,6 +1,14 @@
-# DAS
-Layout of A Low-power **D**istributed **A**cquisition **S**ystem  
-低功耗分布式采集系统Layout仓库
+<div>
+	<div align="center">
+		<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=dbdbdb&text=DAS Layout&height=80&fontSize=48"/>
+	</div>
+</div>
+
+**DAS** is a Low-power Distributed Acquisition System. This is the repo of the layout of this system.
+
+- DAS Layout: https://github.com/NicheHardware/DAS-layout
+- DAS Console: https://github.com/NicheHardware/DAS-app
+- DAS Firmware(Private): https://github.com/NicheHardware/DAS-Firmware
 
 ```mermaid
 flowchart LR

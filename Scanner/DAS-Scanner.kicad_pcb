@@ -195,6 +195,7 @@
 		(property "Value" "2.2uF"
 			(at 0 1.43 45)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "665737f3-ab2c-44bb-a264-9227886edf7e")
 			(effects
 				(font
@@ -339,7 +340,7 @@
 			(effects
 				(font
 					(size 0.4 0.4)
-					(thickness 0.06)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -558,8 +559,8 @@
 			(uuid "2c98f524-bd26-4ba9-ab44-3e4338c15b47")
 			(effects
 				(font
-					(size 0.6 0.6)
-					(thickness 0.1)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -605,6 +606,7 @@
 		(property "Value" "100R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "8fd2be83-07ba-4b27-99db-13dd7041496b")
 			(effects
 				(font
@@ -768,8 +770,8 @@
 			(uuid "829fa152-51ad-45e8-82d7-5515cc65db16")
 			(effects
 				(font
-					(size 0.26 0.26)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -824,6 +826,7 @@
 		(property "Value" "0.1uF/2.2uF"
 			(at 0 1.16 135)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "5788d458-f32f-45ea-8955-4767098b3753")
 			(effects
 				(font
@@ -967,8 +970,8 @@
 			(uuid "0598137e-8e6a-4f44-b142-4d31a8e030e6")
 			(effects
 				(font
-					(size 0.25 0.25)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1024,6 +1027,7 @@
 		(property "Value" "M3 hole"
 			(at 0 3.75 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a9fd1d13-61c3-404b-8973-1abbba835d6c")
 			(effects
 				(font
@@ -1089,7 +1093,7 @@
 			(uuid "b8421725-e657-4e64-bd83-f5e5ec2ca1f9")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
@@ -1122,6 +1126,7 @@
 		(property "Value" "CH585M"
 			(at 0 3.95 135)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1dec2705-d714-4aa1-916a-37fbdd1098df")
 			(effects
 				(font
@@ -1324,7 +1329,7 @@
 			(uuid "dbaa30a4-b99e-494b-912d-c30167085e45")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
@@ -2219,6 +2224,7 @@
 		(property "Value" "0.1uF/2.2uF"
 			(at 0 1.16 135)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "048393f0-1f00-4227-954f-531dd39ce8ca")
 			(effects
 				(font
@@ -2362,8 +2368,8 @@
 			(uuid "be23ff22-6251-496a-bbea-2afa1f2388ab")
 			(effects
 				(font
-					(size 0.25 0.25)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2418,6 +2424,7 @@
 		(property "Value" "ME6210A33M3G"
 			(at 0 0 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "af87ee0c-2331-43a0-a1c2-57f1635de5b1")
 			(effects
 				(font
@@ -2599,13 +2606,13 @@
 			(uuid "a43e24f4-4be3-40a5-8a0e-fb801bd69175")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 -0.1075 0)
 			(layer "F.Fab")
 			(uuid "e5ce33d6-174c-4858-beca-3a9c52284f1b")
 			(effects
 				(font
-					(size 0.5 0.5)
-					(thickness 0.075)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2672,6 +2679,7 @@
 		(property "Value" "5.1k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b1c55706-d46d-4458-af02-e452b1b446dd")
 			(effects
 				(font
@@ -2835,8 +2843,8 @@
 			(uuid "3445067a-c658-427f-8c37-560eb948a08a")
 			(effects
 				(font
-					(size 0.26 0.26)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2892,6 +2900,7 @@
 		(property "Value" "LOG_PORT"
 			(at 0 7.46 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "13bcfe7d-3c66-4ba3-8b4f-9b546264fe41")
 			(effects
 				(font
@@ -2928,7 +2937,7 @@
 		(path "/347baed7-b747-4bfa-83ac-0bc6fb2c54fe")
 		(sheetname "/")
 		(sheetfile "DAS-Scanner.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -3085,7 +3094,7 @@
 			(uuid "9dbbba5c-5a7b-4bba-9df9-32394e76ca8e")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
@@ -3156,6 +3165,7 @@
 		(property "Value" "Crystal_GND24_Small"
 			(at 0 2.450001 45)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "34e3d3be-4fb7-48a5-99c6-62630f6822d2")
 			(effects
 				(font
@@ -3405,8 +3415,8 @@
 			(uuid "d6fdb6b9-145c-41b4-9b25-192e5eff70c4")
 			(effects
 				(font
-					(size 0.7 0.7)
-					(thickness 0.105)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3482,6 +3492,7 @@
 			(at 0 5 270)
 			(unlocked yes)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0515e818-e358-4338-91dd-8257464b98e0")
 			(effects
 				(font
@@ -3586,13 +3597,13 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 -0.29 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "2491934c-7d12-4281-af80-e3977d00cd87")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
@@ -3840,6 +3851,7 @@
 		(property "Value" "100R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b382124a-c85b-4cc6-9e84-fca459ddcc51")
 			(effects
 				(font
@@ -4003,8 +4015,8 @@
 			(uuid "e293c974-8cbd-4c58-966f-37b2918c7a1e")
 			(effects
 				(font
-					(size 0.26 0.26)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4059,6 +4071,7 @@
 		(property "Value" "LED"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "33db9c16-d165-41d1-861a-2dcd61e66acf")
 			(effects
 				(font
@@ -4230,13 +4243,13 @@
 			(uuid "f9e2993f-b002-4546-83d4-63c4d3e00c9f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -0.0225 0 0)
 			(layer "F.Fab")
 			(uuid "38bfbd9c-585e-4aac-b8f6-ea33167e0e0d")
 			(effects
 				(font
 					(size 0.4 0.4)
-					(thickness 0.06)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4293,6 +4306,7 @@
 		(property "Value" "0.47uF"
 			(at 0 1.16 135)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1e7f780b-24f8-4400-8187-c83a173101d3")
 			(effects
 				(font
@@ -4436,8 +4450,8 @@
 			(uuid "7e2d2d2c-a144-433c-be4e-4e270694c744")
 			(effects
 				(font
-					(size 0.25 0.25)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4493,6 +4507,7 @@
 		(property "Value" "PWR_PORT"
 			(at 0 7.46 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "6633599b-dcce-4107-8b73-1941a0c5f80b")
 			(effects
 				(font
@@ -4529,7 +4544,7 @@
 		(path "/2730af54-f524-4c07-8814-f7293666c68d")
 		(sheetname "/")
 		(sheetfile "DAS-Scanner.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -4686,7 +4701,7 @@
 			(uuid "32a11d9b-1fca-4347-bae1-b04e4a73511c")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
@@ -4758,6 +4773,7 @@
 		(property "Value" "TETST_PORT"
 			(at 0 10 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "729454aa-62be-4f57-b298-c8a4d1bb6466")
 			(effects
 				(font
@@ -4794,7 +4810,7 @@
 		(path "/ee2c02e9-6a75-4b87-ba01-94630e13fbd7")
 		(sheetname "/")
 		(sheetfile "DAS-Scanner.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 9)
 			(end 1.38 9)
@@ -4951,7 +4967,7 @@
 			(uuid "a36e4753-c72b-4dd5-9d13-e2ba0e93e301")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
@@ -5033,6 +5049,7 @@
 		(property "Value" "4.7uF"
 			(at 0 1.16 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "626af0e0-fc07-4aeb-aff0-0e301e919012")
 			(effects
 				(font
@@ -5176,8 +5193,8 @@
 			(uuid "e219de3d-710e-4168-b7ee-63701c51aa97")
 			(effects
 				(font
-					(size 0.25 0.25)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5232,6 +5249,7 @@
 		(property "Value" "5.1k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "3d16bb3f-7107-453a-be22-b1085231265d")
 			(effects
 				(font
@@ -5395,8 +5413,8 @@
 			(uuid "c6297bd0-d0e1-4716-8f9d-9b4e3ac60233")
 			(effects
 				(font
-					(size 0.26 0.26)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5452,6 +5470,7 @@
 		(property "Value" "ANT"
 			(at -4.758 -0.762 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "51dab97c-3051-4817-b771-fdc3817d2ac2")
 			(effects
 				(font
@@ -5490,7 +5509,7 @@
 		(path "/83631d09-727d-4268-a1cb-a09f51a3bc0a")
 		(sheetname "/")
 		(sheetfile "DAS-Scanner.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(net_tie_pad_groups "1,2")
 		(fp_poly
 			(pts
@@ -5654,12 +5673,12 @@
 			(uuid "85c7475d-fae3-4f77-a2eb-00b47aca514b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -4.55 -6.4 90)
+			(at -4.55 -2.625 90)
 			(layer "F.Fab")
 			(uuid "8bf867eb-b1f4-4975-95a4-656f932f8688")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
@@ -5718,6 +5737,7 @@
 		(property "Value" "1uF/16V"
 			(at 0 1.16 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ee2a2557-bcfa-4cb3-98fa-b19a5d3aa2de")
 			(effects
 				(font
@@ -5861,8 +5881,8 @@
 			(uuid "53e082dd-6bce-4e77-9cab-168b9a71eeeb")
 			(effects
 				(font
-					(size 0.25 0.25)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5917,6 +5937,7 @@
 		(property "Value" "LED"
 			(at 0 1.524 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0f72091b-d60c-4675-9a89-77564af6f9b4")
 			(effects
 				(font
@@ -6088,13 +6109,13 @@
 			(uuid "a64491ea-24b8-487e-819a-a96808968ee6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -0.0225 0 0)
 			(layer "F.Fab")
 			(uuid "43ace511-e831-46e4-9725-7c1ff648cbe9")
 			(effects
 				(font
 					(size 0.4 0.4)
-					(thickness 0.06)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6151,6 +6172,7 @@
 		(property "Value" "0R/10uH"
 			(at 0 1.43 135)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "5d3106f0-5067-4f52-84a8-2f48890b1b88")
 			(effects
 				(font
@@ -6295,7 +6317,7 @@
 			(effects
 				(font
 					(size 0.4 0.4)
-					(thickness 0.06)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6350,6 +6372,7 @@
 		(property "Value" "5.1k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "15371725-2a9a-4400-8f1f-43198c842963")
 			(effects
 				(font
@@ -6513,8 +6536,8 @@
 			(uuid "a7581c44-de71-4ee4-8ec8-f33457c806d9")
 			(effects
 				(font
-					(size 0.26 0.26)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6569,6 +6592,7 @@
 		(property "Value" "10uF/16V"
 			(at 0 1.43 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0faf4e38-10f6-483b-8f6e-bd54870bae20")
 			(effects
 				(font
@@ -6713,7 +6737,7 @@
 			(effects
 				(font
 					(size 0.4 0.4)
-					(thickness 0.06)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6768,6 +6792,7 @@
 			(at 3 1 270)
 			(unlocked yes)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "69d833bb-26a7-4682-a0e5-19a337d1946f")
 			(effects
 				(font
@@ -6818,13 +6843,13 @@
 			(uuid "39b0b597-0056-450a-98f7-4f0b22153a44")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.05 2.8 270)
+			(at 3.1 1.8 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "403244d4-9a07-4136-bf13-3b6d3793d478")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
@@ -6873,6 +6898,7 @@
 		(property "Value" "LED"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a7d12409-b754-48d5-90cf-c944ae499b7a")
 			(effects
 				(font
@@ -7044,13 +7070,13 @@
 			(uuid "87006cc5-3077-41a3-abd5-bf6cf4891d58")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -0.0225 0 0)
 			(layer "F.Fab")
 			(uuid "6e007cbf-055a-4c25-b34f-37283ae98bfb")
 			(effects
 				(font
 					(size 0.4 0.4)
-					(thickness 0.06)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7107,6 +7133,7 @@
 		(property "Value" "100R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "015020af-e515-49c5-960d-4c8fcbb5c293")
 			(effects
 				(font
@@ -7270,8 +7297,8 @@
 			(uuid "7f53d83e-3943-410c-a658-8f5b4cdad874")
 			(effects
 				(font
-					(size 0.26 0.26)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7329,6 +7356,7 @@
 			(at 0 5 0)
 			(unlocked yes)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "9bbe51f3-5555-4bf2-bccb-369d30da72d6")
 			(effects
 				(font
@@ -7433,13 +7461,13 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 -0.29 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "5d8f3be0-d7f3-4428-915f-e5ab3389b865")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
@@ -7687,6 +7715,7 @@
 		(property "Value" "5.1k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "32e74893-1633-4e86-8fdd-c69ff81820e3")
 			(effects
 				(font
@@ -7850,8 +7879,8 @@
 			(uuid "05b2bd50-0200-4b5f-9090-cea15783ae15")
 			(effects
 				(font
-					(size 0.26 0.26)
-					(thickness 0.04)
+					(size 0.4 0.4)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7907,6 +7936,7 @@
 		(property "Value" "M3 hole"
 			(at 0 3.75 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b3d76807-3c5a-416a-aed0-25f86bd957ea")
 			(effects
 				(font
@@ -7972,7 +8002,7 @@
 			(uuid "28782fe7-56be-4071-9be6-6c64f2b12e1c")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
@@ -8007,6 +8037,7 @@
 		(property "Value" "M3 hole"
 			(at 0 3.75 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "11a33a8d-66a3-485b-9af1-588f70ac361d")
 			(effects
 				(font
@@ -8072,7 +8103,7 @@
 			(uuid "48ca26f5-2e33-4dba-b906-a7e566832464")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
@@ -8107,6 +8138,7 @@
 		(property "Value" "M3 hole"
 			(at 0 3.75 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "f1cd9fbd-fe14-4007-a0f7-6375deb9c515")
 			(effects
 				(font
@@ -8172,7 +8204,7 @@
 			(uuid "4df27282-c7f4-49df-96a2-5007c323556e")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.4 0.4)
 					(thickness 0.15)
 				)
 			)
